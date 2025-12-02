@@ -1,28 +1,28 @@
 # 地区检测
-HOST-SUFFIX, gspe1-ssl.ls.apple.com
-HOST-KEYWORD, mcc234
+host-suffix, gspe1-ssl.ls.apple.com,UK-wifi-call
+host-keyword, mcc234,UK-wifi-call
 
 # 沃达丰
-HOST-SUFFIX, epdg.epc.mnc015.mcc234.pub.3gppnetwork.org
-HOST-SUFFIX, ss.epdg.epc.mnc015.mcc234.pub.3gppnetwork.org
-HOST-SUFFIX, ss.epdg.epc.geo.mnc015.mcc234.pub.3gppnetwork.org
-HOST-SUFFIX, entsrv-uk.vodafone.com
-HOST-SUFFIX, vuk-gto.prod.ondemandconnectivity.comIP-CIDR, 88.82.0.0/19
-IP-CIDR,88.82.0.0/19
+host-suffix, epdg.epc.mnc015.mcc234.pub.3gppnetwork.org,UK-wifi-call
+host-suffix, ss.epdg.epc.mnc015.mcc234.pub.3gppnetwork.org,UK-wifi-call
+host-suffix, ss.epdg.epc.geo.mnc015.mcc234.pub.3gppnetwork.org,UK-wifi-call
+host-suffix, entsrv-uk.vodafone.com,UK-wifi-call
+host-suffix, vuk-gto.prod.ondemandconnectivity.comIP-CIDR, 88.82.0.0/19,UK-wifi-call
+ip-cidr,88.82.0.0/19,UK-wifi-call
 
 # VOXI
-IP-CIDR, 148.252.160.0/19
-HOST, vfgb.idemia.io
+ip-cidr, 148.252.160.0/19,UK-wifi-call
+host, vfgb.idemia.io,UK-wifi-call
 
 # CMLinkUK EE
-IP-CIDR, 46.68.0.0/17
+ip-cidr, 46.68.0.0/17,UK-wifi-call
 
 # Giffgaff
-IP-CIDR, 87.194.0.0/16
+ip-cidr, 87.194.0.0/16,UK-wifi-call
 
 # CTE
-HOST-SUFFIX, ee.co.uk
-IP-CIDR, 31.94.0.0/16
+host-suffix, ee.co.uk,UK-wifi-call
+ip-cidr, 31.94.0.0/16,UK-wifi-call
 
 # Helium
-IP-CIDR,208.54.0.0/16
+ip-cidr,208.54.0.0/16,UK-wifi-call
