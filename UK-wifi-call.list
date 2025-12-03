@@ -7,7 +7,7 @@ host-suffix, epdg.epc.mnc015.mcc234.pub.3gppnetwork.org,UK-wifi-call
 host-suffix, ss.epdg.epc.mnc015.mcc234.pub.3gppnetwork.org,UK-wifi-call
 host-suffix, ss.epdg.epc.geo.mnc015.mcc234.pub.3gppnetwork.org,UK-wifi-call
 host-suffix, entsrv-uk.vodafone.com,UK-wifi-call
-host-suffix, vuk-gto.prod.ondemandconnectivity.com
+host-suffix, vuk-gto.prod.ondemandconnectivity.com,UK-wifi-call
 ip-cidr,88.82.0.0/19,UK-wifi-call
 
 # VOXI
