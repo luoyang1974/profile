@@ -1,6 +1,6 @@
 payload:
     - DOMAIN-SUFFIX,duckcoding.com
-    - DOMAIN-SUFFIX,prinnode.com
+    - DOMAIN-SUFFIX,privnode.com
     - DOMAIN-SUFFIX,88code.ai
     - DOMAIN-SUFFIX,88code.wu.ren
     - DOMAIN-SUFFIX,tik2i1kw.cn-nb1.rainapp.top
@@ -9,9 +9,7 @@ payload:
     - DOMAIN-SUFFIX,cubence.com
     - DOMAIN-SUFFIX,co.yes.vg
     - DOMAIN-SUFFIX,ikuncode.cc
-    - DOMAIN-SUFFIX,foxcode.rjj.cc
     - DOMAIN-SUFFIX,code.newcli.com
-    - DOMAIN-SUFFIX,foxcode.hshwk.org
     - DOMAIN-SUFFIX,gaccode.com
     - DOMAIN-SUFFIX,aicodemirror.com
     - DOMAIN-SUFFIX,claudecode.net.cn
