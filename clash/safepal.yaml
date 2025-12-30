@@ -1,0 +1,7 @@
+payload:
+  DOMAIN-SUFFIX,safepal.com
+  DOMAIN-SUFFIX,safepal.io
+payload:
+    - +.safepal.com
+    - +.isafepal.com
+    - +.safepal.io
