@@ -1,4 +1,5 @@
 payload:
+    - +.api.vip.crond.dev
     - +.duckcoding.com
     - +.privnode.com
     - +.88code.ai
