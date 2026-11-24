@@ -1,12 +1,18 @@
-# RedPocket GSMA / AT&T Wi-Fi Calling
+# NAME: WiFiCalling-ATT
+# DESCRIPTION: AT&T / RedPocket GSMA Wi-Fi Calling
+# COMPATIBILITY: Mihomo, Shadowrocket, Surge
+# DOMAIN: 3
+# IP-CIDR: 1
+# TOTAL: 4
 
-# AT&T 官方域名
-DOMAIN,epdg.epc.att.net,🇺🇸 美国
-DOMAIN,sentitlement2.mobile.att.net,🇺🇸 美国
-DOMAIN,vvm.mobile.att.net,🇺🇸 美国
+# AT&T Wi-Fi Calling Gateway
+DOMAIN,epdg.epc.att.net
 
-# AT&T ePDG IP（社区实测）
-IP-CIDR,107.122.31.0/24,🇺🇸 美国,no-resolve
+# AT&T Service Entitlement
+DOMAIN,sentitlement2.mobile.att.net
 
-# 美国 Wi-Fi Calling UDP 补充规则
-AND,((GEOIP,US),(PROTOCOL,UDP),(OR,((DEST-PORT,500),(DEST-PORT,4500)))),🇺🇸 美国
+# AT&T Visual Voicemail
+DOMAIN,vvm.mobile.att.net
+
+# AT&T ePDG IP Range (Community Reported)
+IP-CIDR,107.122.31.0/24,no-resolve
