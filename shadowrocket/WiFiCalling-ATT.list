@@ -1,0 +1,12 @@
+# RedPocket GSMA / AT&T Wi-Fi Calling
+
+# AT&T 官方域名
+DOMAIN,epdg.epc.att.net,🇺🇸 美国
+DOMAIN,sentitlement2.mobile.att.net,🇺🇸 美国
+DOMAIN,vvm.mobile.att.net,🇺🇸 美国
+
+# AT&T ePDG IP（社区实测）
+IP-CIDR,107.122.31.0/24,🇺🇸 美国,no-resolve
+
+# 美国 Wi-Fi Calling UDP 补充规则
+AND,((GEOIP,US),(PROTOCOL,UDP),(OR,((DEST-PORT,500),(DEST-PORT,4500)))),🇺🇸 美国
