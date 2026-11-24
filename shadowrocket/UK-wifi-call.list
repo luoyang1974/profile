@@ -1,5 +1,5 @@
 # 地区检测
-DOMAIN-SUFFIX,gspe1-ssl.ls.apple.com,UK-wifi-call
+# DOMAIN-SUFFIX,gspe1-ssl.ls.apple.com,UK-wifi-call
 DOMAIN-KEYWORD,mcc234,UK-wifi-call
 
 # 沃达丰
