@@ -1,0 +1,9 @@
+# NAME: RedPocket
+# DESCRIPTION: RedPocket Website, Account, Activation and Payment
+# DOMAIN: 1
+# DOMAIN-SUFFIX: 2
+# TOTAL: 3
+
+DOMAIN-SUFFIX,redpocket.com
+DOMAIN-SUFFIX,goredpocket.com
+DOMAIN,dnc8pt3q0ulny.cloudfront.net
